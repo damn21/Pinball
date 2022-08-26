@@ -1,0 +1,52 @@
+{
+    "name": "Flipper",
+    "maps": [
+        {
+            "name": "New action map",
+            "id": "b3c69fb6-d139-46c6-8384-4ab16fe6b6cb",
+            "actions": [
+                {
+                    "name": "New action",
+                    "type": "Button",
+                    "id": "38e5f9a8-17d5-4a61-90a2-57dbe5f6fdd2",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": ""
+                },
+                {
+                    "name": "New action1",
+                    "type": "Button",
+                    "id": "3510d17f-c563-4ac4-ba6a-2685be6aac39",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": ""
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "917de5e6-57cc-4b73-b3a8-e5d3f7b6168c",
+                    "path": "<Keyboard>/leftArrow",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "New action",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "c75609a8-4740-4d13-917a-1d9d0bb1368b",
+                    "path": "<Keyboard>/rightArrow",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "New action1",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": []
+}
