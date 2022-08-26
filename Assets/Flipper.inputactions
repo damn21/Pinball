@@ -6,7 +6,7 @@
             "id": "b3c69fb6-d139-46c6-8384-4ab16fe6b6cb",
             "actions": [
                 {
-                    "name": "New action",
+                    "name": "left",
                     "type": "Button",
                     "id": "38e5f9a8-17d5-4a61-90a2-57dbe5f6fdd2",
                     "expectedControlType": "Button",
@@ -14,7 +14,7 @@
                     "interactions": ""
                 },
                 {
-                    "name": "New action1",
+                    "name": "right",
                     "type": "Button",
                     "id": "3510d17f-c563-4ac4-ba6a-2685be6aac39",
                     "expectedControlType": "Button",
@@ -30,7 +30,7 @@
                     "interactions": "",
                     "processors": "",
                     "groups": "",
-                    "action": "New action",
+                    "action": "left",
                     "isComposite": false,
                     "isPartOfComposite": false
                 },
@@ -41,7 +41,7 @@
                     "interactions": "",
                     "processors": "",
                     "groups": "",
-                    "action": "New action1",
+                    "action": "right",
                     "isComposite": false,
                     "isPartOfComposite": false
                 }
